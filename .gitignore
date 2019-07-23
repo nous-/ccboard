@@ -1,3 +1,19 @@
+# submodule
+/cboard
+
+# This is copied from the cboard application
+/www
+
+# Cordova files that are generated or unneeded
+/platforms
+/plugins
+/hooks
+
+# Other
+.DS_Store
+
+# Node ignore
+
 # Logs
 logs
 *.log
